@@ -1,0 +1,7 @@
+akses admin
+username admin
+password admin
+
+akses kasir
+username kasir
+password kasir
